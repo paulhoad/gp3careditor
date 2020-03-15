@@ -8,3 +8,5 @@ I'm uploading for anyone still using this tools to enjoy and build (currently bu
 Note: this source is from a slightly earlier version of the car editor (not the version 3.4 that is available as a binary from various websites)
 
 It maybe the sources between those versions is lost forever, but for now lets get the source in the community. 
+
+![image](https://user-images.githubusercontent.com/61913443/76704723-df13bf00-66d2-11ea-9771-cfe1b501ed20.png)
